@@ -6,6 +6,7 @@ import PropPage from './pages/PropPage'
 import SkeletonLoaderPage from './pages/SkeletonLoaderPage'
 import Mode from './pages/ModeSwitching/Mode'
 import Time from './pages/Clock/Time'
+import Tabs from './pages/ActiveTab/Tabs'
 function App() {
 
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path='/skeleton-profile' element={<SkeletonLoaderPage />} />
         <Route path='/modes' element={<Mode />} />
         <Route path='/time' element={<Time />} />
+        <Route path='/tabs' element={<Tabs />} />
       </Routes>
     </BrowserRouter>
   )
