@@ -12,6 +12,7 @@ function Home() {
         <li><Link to="/skeleton-profile">Skeleton Loader</Link></li>
         <li><Link to="/modes">Light/Dark Mode</Link></li>
         <li><Link to="/time">Clock Time</Link></li>
+        <li><Link to="/tabs">Active Tab</Link></li>
       </ol>
     </>
   )
