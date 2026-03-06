@@ -11,6 +11,7 @@ function Home() {
         <li><Link to="/props">Props</Link></li>
         <li><Link to="/skeleton-profile">Skeleton Loader</Link></li>
         <li><Link to="/modes">Light/Dark Mode</Link></li>
+        <li><Link to="/time">Clock Time</Link></li>
       </ol>
     </>
   )
