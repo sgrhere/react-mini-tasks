@@ -9,6 +9,7 @@ function Home() {
         <li><Link to="/export">Export Task</Link></li>
         <li><Link to="/ternary">Ternary Operator</Link></li>
         <li><Link to="/props">Props</Link></li>
+        <li><Link to="/skeleton-profile">Skeleton Loader</Link></li>
       </ol>
     </>
   )
