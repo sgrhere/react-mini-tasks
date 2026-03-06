@@ -8,6 +8,9 @@ function PropPage() {
         <SharedBtn name="Mouse" price="150" quantity="2" />
         <SharedBtn name="Keyboard" price="200" quantity="5" />
         <SharedBtn name="Earphone" price="350" quantity="2" />
+
+        {/* <Button onClick={() => alert("Logged in")}> Login </Button> - passing function & content as props */}
+
     </div>
     </>
   )

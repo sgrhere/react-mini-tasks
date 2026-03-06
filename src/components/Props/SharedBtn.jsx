@@ -13,3 +13,13 @@ function SharedBtn({name, price, quantity}) {
 }
 
 export default SharedBtn
+
+
+// For using the children content of button tag as prop.
+// function Button({ children, onClick }) {
+//   return (
+//     <button onClick={onClick} style={{ padding: "10px 20px" }}>
+//       {children}
+//     </button>
+//   );
+// }
