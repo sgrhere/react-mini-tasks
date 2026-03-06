@@ -10,6 +10,7 @@ function Home() {
         <li><Link to="/ternary">Ternary Operator</Link></li>
         <li><Link to="/props">Props</Link></li>
         <li><Link to="/skeleton-profile">Skeleton Loader</Link></li>
+        <li><Link to="/modes">Light/Dark Mode</Link></li>
       </ol>
     </>
   )
